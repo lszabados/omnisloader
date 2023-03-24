@@ -1,0 +1,1067 @@
+{
+  "data": null,
+  "error": {
+    "meta": {
+      "contentType": "EditErrorResponse"
+    },
+    "content": {
+      "_type": "EditErrorResponse",
+      "data": {
+        "_type": "ErpDataObject",
+        "meta": {
+          "_type": "ErpEditorObjectMeta",
+          "sourceType": "EDITOR",
+          "objectType": "obj:data:2:7",
+          "client": "hudemom",
+          "schemaVersion": "2023020415041200000004",
+          "objectGroup": "2:7",
+          "id": "(539676,2,0)",
+          "version": "2023031405455400000016",
+          "lastModified": "2023-03-16T17:30:16.574+00:00",
+          "tag": "ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35#4",
+          "rowCount": 2,
+          "tableOffset": 1,
+          "tableLimit": 0,
+          "link": {
+            "description": "Working set editing process for object (539676,2,0).",
+            "rel": "self",
+            "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35",
+            "objectType": "obj:data:2:7"
+          },
+          "modifications": 4,
+          "modified": true,
+          "exclusive": false,
+          "fieldNames": [
+            "kuartnr"
+          ],
+          "editRowId": "!2",
+          "rowNumber": 2,
+          "screenNumber": 863,
+          "state": "ACTIVE",
+          "action": "UPDATE",
+          "priority": "D",
+          "workingSetId": "ws-39",
+          "workingSetEditorId": "ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35",
+          "screenCtxConfig": "CONF_MNAME_hudemom CONF_SPR_E CONF_MLIEF CONF_MVPR CONF_DELNOT CONF_NATRAB CONF_VFOLGE CONF_VKALK CONF_KOST CONF_FERT CONF_BDEKON CONF_VARIANT CONF_KFZ CONF_FREITEXT CONF_VPNUM CONF_EPNUM CONF_SAMMEL CONF_INTRA CONF_DDEK CONF_PASSWD CONF_SML CONF_ANLBU CONF_STBU CONF_DMV CONF_ELEKSTEUER CONF_ABLAGEINT CONF_KSPR_de CONF_KSPR_en CONF_KSPR_it CONF_KSPR_hu CONF_SMLS CONF_FIBU CONF_EGLAND ",
+          "screenCtxUser": "USER_lszabados"
+        },
+        "links": {
+          "urn:abas:rel:group:commands": [
+            {
+              "description": "Commands for this database group",
+              "rel": "urn:abas:rel:group:commands",
+              "href": "/mw/r/hudemom/obj/data/2%3A7/commands",
+              "objectType": "commands"
+            }
+          ],
+          "urn:abas:rel:editor:SAVEANDRELOAD": [
+            {
+              "rel": "urn:abas:rel:editor:SAVEANDRELOAD",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/commands/SAVEANDRELOAD",
+              "objectType": "command"
+            }
+          ],
+          "urn:abas:rel:actions": [
+            {
+              "description": "Actions",
+              "rel": "urn:abas:rel:actions",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/actions",
+              "objectType": "actions"
+            }
+          ],
+          "latest-version": [
+            {
+              "rel": "latest-version",
+              "href": "/mw/r/hudemom/obj/data/2%3A7/%28539676%2C2%2C0%29",
+              "objectType": "obj:data:2:7"
+            }
+          ],
+          "urn:abas:rel:editAction:NEW": [
+            {
+              "description": "New",
+              "rel": "urn:abas:rel:editAction:NEW",
+              "href": "/mw/r/hudemom/obj/data/2%3A7/commands/NEW",
+              "objectType": "command"
+            }
+          ],
+          "urn:abas:rel:commands": [
+            {
+              "description": "Commands",
+              "rel": "urn:abas:rel:commands",
+              "href": "/mw/r/hudemom/obj/data/2%3A7/%28539676%2C2%2C0%29/commands",
+              "objectType": "commands"
+            }
+          ],
+          "describedby": [
+            {
+              "rel": "describedby",
+              "href": "/mw/r/hudemom/obj/meta/2%3A7?selHeadFields=%2A&selTableFields=%2A",
+              "objectType": "table:meta"
+            }
+          ],
+          "urn:abas:rel:events": [
+            {
+              "description": "Events",
+              "rel": "urn:abas:rel:events",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/events",
+              "objectType": "events"
+            }
+          ],
+          "up": [
+            {
+              "description": "Working set ws-39",
+              "rel": "up",
+              "href": "/mw/r/hudemom/workspace/ws-39",
+              "objectType": "workingSet"
+            }
+          ],
+          "urn:abas:rel:editor:CANCEL": [
+            {
+              "rel": "urn:abas:rel:editor:CANCEL",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/commands/CANCEL",
+              "objectType": "command"
+            }
+          ],
+          "urn:abas:rel:parent": [
+            {
+              "description": "Working set editing process for object (539667,2,0).",
+              "rel": "urn:abas:rel:parent",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-39ed2198-8b39-4ab7-a688-692d1c6633fe",
+              "objectType": "obj:data:2:1"
+            }
+          ],
+          "urn:abas:rel:editor:COMMIT": [
+            {
+              "rel": "urn:abas:rel:editor:COMMIT",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/commands/COMMIT",
+              "objectType": "command"
+            }
+          ],
+          "urn:abas:rel:infosystems": [
+            {
+              "description": "Infosystems",
+              "rel": "urn:abas:rel:infosystems",
+              "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/infosystems",
+              "objectType": "infosystems"
+            }
+          ]
+        },
+        "head": {
+          "fields": {
+            "erfass": {
+              "text": ""
+            },
+            "versionerstellen": {
+              "text": "according to version trigger",
+              "value": "(AccordingToVersionTrigger)",
+              "links": {
+                "urn:abas:rel:fieldValues": [
+                  {
+                    "description": "List of possible field values",
+                    "rel": "urn:abas:rel:fieldValues",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/versionerstellen/values",
+                    "objectType": "fieldValuesList"
+                  }
+                ]
+              },
+              "readOnly": false
+            },
+            "objgruppe": {
+              "text": "7",
+              "value": 7
+            },
+            "nummerb": {
+              "value": ""
+            },
+            "typ": {
+              "text": "0",
+              "value": 0
+            },
+            "art": {
+              "text": "ENP10043211A",
+              "value": "(539667,2,0)",
+              "links": {
+                "urn:abas:rel:commands:new": [
+                  {
+                    "description": "New",
+                    "rel": "urn:abas:rel:commands:new",
+                    "href": "/mw/r/hudemom/obj/commands/PS2%3A1.5",
+                    "objectType": "commands:new"
+                  }
+                ],
+                "urn:abas:rel:actions": [
+                  {
+                    "description": "Actions",
+                    "rel": "urn:abas:rel:actions",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29/actions",
+                    "objectType": "actions"
+                  }
+                ],
+                "urn:abas:rel:commands": [
+                  {
+                    "description": "Commands",
+                    "rel": "urn:abas:rel:commands",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29/commands",
+                    "objectType": "commands"
+                  }
+                ],
+                "urn:abas:rel:infosystems": [
+                  {
+                    "description": "Infosystems",
+                    "rel": "urn:abas:rel:infosystems",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29/infosystems",
+                    "objectType": "infosystems"
+                  }
+                ],
+                "via": [
+                  {
+                    "description": "308419 E.P. MCM080-MCL110 WITH MODBUS 400 Vac 50 Hz PLATE: D",
+                    "rel": "via",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29",
+                    "objectType": "obj:data:2:1"
+                  }
+                ]
+              }
+            },
+            "versionrelevant": {
+              "text": "No",
+              "value": false
+            },
+            "objdnr": {
+              "text": "2",
+              "value": "(Part)"
+            },
+            "sn": {
+              "text": "",
+              "value": "",
+              "links": {
+                "urn:abas:rel:commands:new": [
+                  {
+                    "description": "New",
+                    "rel": "urn:abas:rel:commands:new",
+                    "href": "/mw/r/hudemom/obj/commands/P2",
+                    "objectType": "commands:new"
+                  }
+                ]
+              }
+            },
+            "id": {
+              "text": "(0,0,0)",
+              "value": "",
+              "links": {
+                "urn:abas:rel:commands:new": [
+                  {
+                    "description": "New",
+                    "rel": "urn:abas:rel:commands:new",
+                    "href": "/mw/r/hudemom/obj/commands/ID2",
+                    "objectType": "commands:new"
+                  }
+                ]
+              }
+            },
+            "dbez": {
+              "text": "Part",
+              "value": "(Part)"
+            },
+            "paket": {
+              "text": "",
+              "value": "",
+              "links": {
+                "urn:abas:rel:commands:new": [
+                  {
+                    "description": "New",
+                    "rel": "urn:abas:rel:commands:new",
+                    "href": "/mw/r/hudemom/obj/commands/P87%3A10",
+                    "objectType": "commands:new"
+                  }
+                ],
+                "urn:abas:rel:search:obj": [
+                  {
+                    "description": "Full text search",
+                    "rel": "urn:abas:rel:search:obj",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/paket/search"
+                  }
+                ],
+                "urn:abas:rel:selection": [
+                  {
+                    "rel": "urn:abas:rel:selection",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/paket/select",
+                    "objectType": "LinkList"
+                  }
+                ]
+              },
+              "readOnly": false
+            },
+            "ablagef": {
+              "text": "No",
+              "value": false
+            },
+            "ozeilen": {
+              "text": "0",
+              "value": 0
+            },
+            "dnr": {
+              "text": "2",
+              "value": "(Part)"
+            },
+            "index": {
+              "value": ""
+            },
+            "grust": {
+              "text": "7",
+              "value": 7
+            },
+            "grbez": {
+              "value": "Customer product properties"
+            },
+            "ablagen": {
+              "value": ""
+            },
+            "artikel": {
+              "text": "ENP10043211A",
+              "value": "(539667,2,0)",
+              "links": {
+                "urn:abas:rel:commands:new": [
+                  {
+                    "description": "New",
+                    "rel": "urn:abas:rel:commands:new",
+                    "href": "/mw/r/hudemom/obj/commands/PS2%3A1.5",
+                    "objectType": "commands:new"
+                  }
+                ],
+                "urn:abas:rel:actions": [
+                  {
+                    "description": "Actions",
+                    "rel": "urn:abas:rel:actions",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29/actions",
+                    "objectType": "actions"
+                  }
+                ],
+                "urn:abas:rel:commands": [
+                  {
+                    "description": "Commands",
+                    "rel": "urn:abas:rel:commands",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29/commands",
+                    "objectType": "commands"
+                  }
+                ],
+                "urn:abas:rel:infosystems": [
+                  {
+                    "description": "Infosystems",
+                    "rel": "urn:abas:rel:infosystems",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29/infosystems",
+                    "objectType": "infosystems"
+                  }
+                ],
+                "via": [
+                  {
+                    "description": "308419 E.P. MCM080-MCL110 WITH MODBUS 400 Vac 50 Hz PLATE: D",
+                    "rel": "via",
+                    "href": "/mw/r/hudemom/obj/data/2%3A1/%28539667%2C2%2C0%29",
+                    "objectType": "obj:data:2:1"
+                  }
+                ]
+              }
+            },
+            "objgrbez": {
+              "value": "Customer product properties"
+            },
+            "markiertzn": {
+              "text": "0",
+              "value": 0,
+              "readOnly": false
+            },
+            "artname": {
+              "value": "308419 E.P. MCM080-MCL110 WITH M"
+            },
+            "versionn": {
+              "value": ""
+            },
+            "objdbez": {
+              "text": "Part",
+              "value": "(Part)"
+            },
+            "guid": {
+              "value": ""
+            },
+            "dateiarchivieren": {
+              "value": "",
+              "readOnly": false
+            },
+            "buinfosys": {
+              "links": {
+                "urn:abas:rel:subEditor": [
+                  {
+                    "description": "runIS",
+                    "rel": "urn:abas:rel:subEditor",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/buinfosys/commands/SUBEDIT"
+                  }
+                ]
+              },
+              "readOnly": false
+            },
+            "objinzeile": {
+              "text": "No",
+              "value": false
+            },
+            "such2": {
+              "value": ""
+            },
+            "gruppe": {
+              "text": "7",
+              "value": 7
+            },
+            "versionierenicht": {
+              "text": "No",
+              "value": false,
+              "readOnly": false
+            },
+            "urmand": {
+              "value": "",
+              "readOnly": false
+            },
+            "schemaversion": {
+              "value": ""
+            },
+            "nummer": {
+              "value": ""
+            },
+            "budruck2": {
+              "links": {
+                "urn:abas:rel:subEditor": [
+                  {
+                    "description": "print2",
+                    "rel": "urn:abas:rel:subEditor",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/budruck2/commands/SUBEDIT"
+                  }
+                ]
+              },
+              "readOnly": false
+            },
+            "budruck": {
+              "links": {
+                "urn:abas:rel:subEditor:printDialog": [
+                  {
+                    "description": "print",
+                    "rel": "urn:abas:rel:subEditor:printDialog",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/budruck/commands/SUBEDIT"
+                  }
+                ]
+              },
+              "readOnly": false
+            },
+            "stand": {
+              "text": ""
+            },
+            "buaktion": {
+              "links": {
+                "urn:abas:rel:subEditor": [
+                  {
+                    "description": "callAction",
+                    "rel": "urn:abas:rel:subEditor",
+                    "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/head/buaktion/commands/SUBEDIT"
+                  }
+                ]
+              },
+              "readOnly": false
+            },
+            "num2": {
+              "value": ""
+            },
+            "versioniertersatz": {
+              "text": "No",
+              "value": false
+            },
+            "mandkenn": {
+              "value": ""
+            },
+            "zeich": {
+              "value": ""
+            },
+            "zeichen": {
+              "value": ""
+            },
+            "suchb": {
+              "value": ""
+            },
+            "such": {
+              "value": ""
+            },
+            "sucherw": {
+              "value": ""
+            },
+            "classname": {
+              "value": "",
+              "readOnly": false
+            }
+          }
+        },
+        "table": [
+          {
+            "fields": {
+              "packanwla": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/P106%3A1",
+                      "objectType": "commands:new"
+                    }
+                  ],
+                  "urn:abas:rel:search:obj": [
+                    {
+                      "description": "Full text search",
+                      "rel": "urn:abas:rel:search:obj",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/packanwla/search"
+                    }
+                  ],
+                  "urn:abas:rel:selection": [
+                    {
+                      "rel": "urn:abas:rel:selection",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/packanwla/select",
+                      "objectType": "LinkList"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "packmla": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/PS2%3A1",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "markiert": {
+                "text": "No",
+                "value": false,
+                "readOnly": false
+              },
+              "id": {
+                "text": "(0,0,0)",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/ID2",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "vorlauf": {
+                "text": "0",
+                "value": 0,
+                "readOnly": false
+              },
+              "packm": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/PS2%3A1",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "ozeilen": {
+                "text": "0",
+                "value": 0
+              },
+              "dnr": {
+                "text": "2",
+                "value": "(Part)"
+              },
+              "index": {
+                "value": "",
+                "readOnly": false
+              },
+              "grust": {
+                "text": "6",
+                "value": 6
+              },
+              "grbez": {
+                "value": "Customer product property"
+              },
+              "zn": {
+                "text": "2",
+                "value": 2
+              },
+              "versionn": {
+                "value": ""
+              },
+              "objdbez": {
+                "text": "Part",
+                "value": "(Part)"
+              },
+              "versionerstellen": {
+                "text": "according to version trigger",
+                "value": "(AccordingToVersionTrigger)",
+                "links": {
+                  "urn:abas:rel:fieldValues": [
+                    {
+                      "rel": "urn:abas:rel:fieldValues",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/versionerstellen/values",
+                      "objectType": "fieldValuesList"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "such2": {
+                "value": ""
+              },
+              "versionierenicht": {
+                "text": "No",
+                "value": false,
+                "readOnly": false
+              },
+              "erfass": {
+                "text": ""
+              },
+              "urmand": {
+                "value": ""
+              },
+              "kuartnr": {
+                "value": "10043211",
+                "readOnly": false
+              },
+              "budruck2": {
+                "links": {
+                  "urn:abas:rel:subEditor": [
+                    {
+                      "description": "print2",
+                      "rel": "urn:abas:rel:subEditor",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/budruck2/commands/SUBEDIT"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "sn": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/P2",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "budruck": {
+                "links": {
+                  "urn:abas:rel:subEditor:printDialog": [
+                    {
+                      "description": "print",
+                      "rel": "urn:abas:rel:subEditor:printDialog",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/budruck/commands/SUBEDIT"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "stand": {
+                "text": ""
+              },
+              "buaktion": {
+                "links": {
+                  "urn:abas:rel:subEditor": [
+                    {
+                      "description": "callAction",
+                      "rel": "urn:abas:rel:subEditor",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/buaktion/commands/SUBEDIT"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "num2": {
+                "value": ""
+              },
+              "mandkenn": {
+                "value": ""
+              },
+              "kl": {
+                "text": "70014",
+                "value": "(170,0,0)",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/P0",
+                      "objectType": "commands:new"
+                    }
+                  ],
+                  "urn:abas:rel:actions": [
+                    {
+                      "description": "Actions",
+                      "rel": "urn:abas:rel:actions",
+                      "href": "/mw/r/hudemom/obj/data/0%3A1/%28170%2C0%2C0%29/actions",
+                      "objectType": "actions"
+                    }
+                  ],
+                  "urn:abas:rel:search:obj": [
+                    {
+                      "description": "Full text search",
+                      "rel": "urn:abas:rel:search:obj",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/kl/search"
+                    }
+                  ],
+                  "urn:abas:rel:selection": [
+                    {
+                      "rel": "urn:abas:rel:selection",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/kl/select",
+                      "objectType": "LinkList"
+                    }
+                  ],
+                  "urn:abas:rel:commands": [
+                    {
+                      "description": "Commands",
+                      "rel": "urn:abas:rel:commands",
+                      "href": "/mw/r/hudemom/obj/data/0%3A1/%28170%2C0%2C0%29/commands",
+                      "objectType": "commands"
+                    }
+                  ],
+                  "urn:abas:rel:infosystems": [
+                    {
+                      "description": "Infosystems",
+                      "rel": "urn:abas:rel:infosystems",
+                      "href": "/mw/r/hudemom/obj/data/0%3A1/%28170%2C0%2C0%29/infosystems",
+                      "objectType": "infosystems"
+                    }
+                  ],
+                  "via": [
+                    {
+                      "description": "VERTIV SLOVAKIA  A.S.",
+                      "rel": "via",
+                      "href": "/mw/r/hudemom/obj/data/0%3A1/%28170%2C0%2C0%29",
+                      "objectType": "obj:data:0:1"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "art": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/PS2%3A1.5",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "zeich": {
+                "value": ""
+              },
+              "zeichen": {
+                "value": ""
+              },
+              "suchb": {
+                "value": ""
+              },
+              "such": {
+                "value": ""
+              },
+              "sucherw": {
+                "value": ""
+              },
+              "classname": {
+                "value": "",
+                "readOnly": false
+              },
+              "artikel": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/PS2%3A1.5",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "versionrelevant": {
+                "text": "No",
+                "value": false
+              },
+              "gruppe": {
+                "text": "6",
+                "value": 6
+              },
+              "packanwversand": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/P106%3A1",
+                      "objectType": "commands:new"
+                    }
+                  ],
+                  "urn:abas:rel:search:obj": [
+                    {
+                      "description": "Full text search",
+                      "rel": "urn:abas:rel:search:obj",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/packanwversand/search"
+                    }
+                  ],
+                  "urn:abas:rel:selection": [
+                    {
+                      "rel": "urn:abas:rel:selection",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/packanwversand/select",
+                      "objectType": "LinkList"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "packmversand": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/PS2%3A1",
+                      "objectType": "commands:new"
+                    }
+                  ]
+                }
+              },
+              "objgruppe": {
+                "text": "6",
+                "value": 6
+              },
+              "nummerb": {
+                "value": ""
+              },
+              "typ": {
+                "text": "0",
+                "value": 0
+              },
+              "dbez": {
+                "text": "Part",
+                "value": "(Part)"
+              },
+              "paket": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/P87%3A10",
+                      "objectType": "commands:new"
+                    }
+                  ],
+                  "urn:abas:rel:search:obj": [
+                    {
+                      "description": "Full text search",
+                      "rel": "urn:abas:rel:search:obj",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/paket/search"
+                    }
+                  ],
+                  "urn:abas:rel:selection": [
+                    {
+                      "rel": "urn:abas:rel:selection",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/paket/select",
+                      "objectType": "LinkList"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "ablagef": {
+                "text": "No",
+                "value": false
+              },
+              "ablagen": {
+                "value": ""
+              },
+              "fmengeversand": {
+                "text": "0",
+                "value": 0,
+                "readOnly": false
+              },
+              "objgrbez": {
+                "value": "Customer product property"
+              },
+              "fmenge": {
+                "text": "0",
+                "value": 0,
+                "readOnly": false
+              },
+              "guid": {
+                "value": "",
+                "readOnly": false
+              },
+              "markiertzn": {
+                "text": "0",
+                "value": 0,
+                "readOnly": false
+              },
+              "dateiarchivieren": {
+                "value": "",
+                "readOnly": false
+              },
+              "buinfosys": {
+                "links": {
+                  "urn:abas:rel:subEditor": [
+                    {
+                      "description": "runIS",
+                      "rel": "urn:abas:rel:subEditor",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/buinfosys/commands/SUBEDIT"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "markierung": {
+                "text": "0",
+                "value": 0,
+                "readOnly": false
+              },
+              "schemaversion": {
+                "value": ""
+              },
+              "nummer": {
+                "value": ""
+              },
+              "objdnr": {
+                "text": "2",
+                "value": "(Part)"
+              },
+              "packanw": {
+                "text": "",
+                "value": "",
+                "links": {
+                  "urn:abas:rel:commands:new": [
+                    {
+                      "description": "New",
+                      "rel": "urn:abas:rel:commands:new",
+                      "href": "/mw/r/hudemom/obj/commands/P106%3A1",
+                      "objectType": "commands:new"
+                    }
+                  ],
+                  "urn:abas:rel:search:obj": [
+                    {
+                      "description": "Full text search",
+                      "rel": "urn:abas:rel:search:obj",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/packanw/search"
+                    }
+                  ],
+                  "urn:abas:rel:selection": [
+                    {
+                      "rel": "urn:abas:rel:selection",
+                      "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/fields/table/%212/packanw/select",
+                      "objectType": "LinkList"
+                    }
+                  ]
+                },
+                "readOnly": false
+              },
+              "fmengela": {
+                "text": "0",
+                "value": 0,
+                "readOnly": false
+              },
+              "klname": {
+                "value": "VERTIV SLOVAKIA  A.S."
+              },
+              "objinzeile": {
+                "text": "Yes",
+                "value": true
+              },
+              "versioniertersatz": {
+                "text": "No",
+                "value": false
+              }
+            },
+            "links": {
+              "urn:abas:rel:infosystems": [
+                {
+                  "description": "Infosystems",
+                  "rel": "urn:abas:rel:infosystems",
+                  "href": "/mw/r/hudemom/workspace/ws-39/wip/ep-bc72eff3-c980-42b7-81be-6e2a4f4b9b35/infosystems?rowSpec=%212",
+                  "objectType": "infosystems"
+                }
+              ]
+            },
+            "editId": "!2",
+            "number": 2,
+            "status": "CREATED"
+          }
+        ]
+      },
+      "remainingActions": {
+        "successCount": 3,
+        "actions": [
+          {
+            "_type": "Commit"
+          }
+        ]
+      },
+      "error": {
+        "category": "OTHER",
+        "error": {
+          "_type": "ErpMessage",
+          "text": [
+            "Process cancelled"
+          ],
+          "type": "ERROR",
+          "subType": "UNKNOWN",
+          "erpNumber": 2743
+        },
+        "details": [
+          {
+            "_type": "ErpMessage",
+            "text": [
+              "Line occurs twice"
+            ],
+            "type": "ERROR",
+            "subType": "UNKNOWN",
+            "erpNumber": 1147,
+            "fieldNames": [
+              "kl"
+            ],
+            "rowSpec": "!2"
+          }
+        ]
+      }
+    },
+    "protocolVersion": "50.0.0"
+  }
+}
